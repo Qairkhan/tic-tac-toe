@@ -1,9 +1,9 @@
 class TicTacToe {
-    constructor() {
+    constructor() {TextDecoderStream
 
     }
 
-    getCurrentPlayerSymbol() {
+    getCurrentPlayerSymbol() {SpeechSynthesis
 
     }
 
